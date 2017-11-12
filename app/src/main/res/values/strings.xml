@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JustKotlinApplication</string>
+    <string name="cannot_add_city">Nie można dodać miasta</string>
+    <string name="connection_error">Błąd połączenia</string>
+</resources>
